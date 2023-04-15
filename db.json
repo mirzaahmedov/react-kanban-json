@@ -2,15 +2,15 @@
   "cols": [
     {
       "id": "1",
-      "label": "Todo",
+      "label": "Todo"
     },
     {
       "id": "2",
-      "label": "In Progress",
+      "label": "In Progress"
     },
     {
       "id": "3",
-      "label": "Done",
+      "label": "Done"
     }
   ],
   "tasks": [
@@ -18,7 +18,7 @@
       "id": "1",
       "title": "Task 1",
       "description": "Description 1",
-      "col": "1",
+      "col": "1"
     }
   ]
 }
